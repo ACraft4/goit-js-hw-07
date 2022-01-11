@@ -23,7 +23,7 @@
 }
 
 .gallery__image:hover {
-  transform: scale(1.03);
+  transform: scale(1.02);
 }
 
 .gallery__image {
